@@ -1,4 +1,4 @@
-package timus_tasks;
+package timus_tasks.year_2024;
 
 import java.io.*;
 
