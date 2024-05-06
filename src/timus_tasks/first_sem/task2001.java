@@ -1,4 +1,4 @@
-package timus_tasks.year_2024;
+package timus_tasks.first_sem;
 
 import java.util.Scanner;
 

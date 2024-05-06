@@ -1,8 +1,7 @@
-package timus_tasks.year_2024;
+package timus_tasks.first_sem;
 
 import java.io.*;
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class task1910 {
     public static void main(String[] args) throws IOException {
